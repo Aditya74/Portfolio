@@ -28,7 +28,7 @@ const projects = [
     image: "/projects/project3.png",
     tags: ["React.js", "TailWind CSS"],
     demoUrl: "#",
-    githubUrl: "https://github.com/SaiSanojTalluri/Portfolio",
+    githubUrl: "https://github.com/Aditya74/Portfolio",
   },
 ];
 
