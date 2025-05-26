@@ -18,7 +18,7 @@ export const AboutSection = () => {
             <p className="text-muted-foreground">
               
               Seeking a challenging position as a software developer to leverage my expertise in Java, HTML, CSS, JavaScript,
-              React.js, MySQL, and MongoDB. Adept at using tools like OpenCV, Mediapipe, and You Only Look Once (YOLO) model for computer vision and
+              React.js, MySQL, and MongoDB. Adept at using tools like OpenCV, Mediapipe model for computer vision and
               machine learning projects.
             </p>
 
